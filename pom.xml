@@ -13,6 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-ghcr-starter</name>
     <description>spring-ghcr-starter</description>
+    <!-- Testing Maven cache -->
     <url/>
     <licenses>
         <license/>
